@@ -4,7 +4,7 @@ Line coding is the process of converting digital data to digital signals. By thi
 Polar NRZ-L:
 It is a Polar NRZ. Here two level of amplitude is used. The level of the amplitude determines the value of the bits. For example, binary 1 map to logic-level high and binary 0 map to logic- level low or vice versa.
 
-![image](https://user-images.githubusercontent.com/61835955/178520643-81b7e67c-641d-4b3c-9599-a3e0a1e2363d.png = 500x)
+![image](https://user-images.githubusercontent.com/61835955/178520643-81b7e67c-641d-4b3c-9599-a3e0a1e2363d.png)
 
 Polar NRZ-I:
 It is also a Polar NRZ. But here, two-level signal has a transition at a boundary. If the next bit that has going to be transmitted is a logical 1 then there is a transition, and if the next bit is logical 0, then there does not have any transition. So, the change or lack of change in polarity determines the value of a symbol.
